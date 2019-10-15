@@ -1,0 +1,1 @@
+const marathon = require('../models/marathon')
